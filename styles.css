@@ -2,7 +2,13 @@
 display: block;
 content:'';
 height: 60px;
+overflow-y: hidden;
  }
+@media (min-width: 567px){
+ .toggle{
+  font-size: 1rem;
+ }
+}
 
 
  @media(min-width: 768px) {
