@@ -5,7 +5,7 @@ height: 60px;
 overflow-y: hidden;
  }
 @media (min-width: 567px){
- .toggle{
+ #toggle{
   font-size: 1rem;
  }
 }
